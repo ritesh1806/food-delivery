@@ -9,6 +9,6 @@ Developed a full-stack food delivery application using MongoDB, Express.js, Reac
 5. Deployed the application on [Render], making the app accessible for future expansion and providing a robust environment for further testing and optimization.
 
 ## Links:
-**Note: click on backend first since the app is right now hosted in Render on a free instance, the free instance tends to spin down with inactivity, which can delay requests by 50 seconds or more.**
+**Note: click on backend first since the backend web service is currenlty deployed in Render on a free instance, the free instance tends to spin down with inactivity, which can delay requests by 50 seconds or more.**
 1. [Backend](https://food-delivery-backend-5ffr.onrender.com)
 2. [Frontend](https://food-delivery-gaau.onrender.com)
